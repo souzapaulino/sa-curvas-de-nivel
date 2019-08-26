@@ -7,5 +7,5 @@ Desenvolvido para plataforma Android, este APP foi criado por José Alberto Souz
 
 Para utilização do aplicativo segue abaixo o link para download do APK e do material de apoio com as TAGs de realidade aumentada.
 
-Download do APK: https://drive.google.com/open?id=1qjGxnPgMBZCSl9YvBzfLJSLUSvJsELj0 \
-Download do material de apoio: https://drive.google.com/open?id=1qjGxnPgMBZCSl9YvBzfLJSLUSvJsELj0
+Download do instalador do aplicativo (apenas Android): https://drive.google.com/open?id=1qdwsCoalRPzjOZ6l2orzGPkAhgp4aRyt \
+Download do material de apoio: https://drive.google.com/open?id=1l5PpnV5SXTtQmL6rnyssC4Y5Opy3eO89
